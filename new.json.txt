@@ -1,0 +1,7 @@
+{
+      "name": "Sotnichenko Angelina Viktorovna",
+      "age": 29,
+      "number of pets": 2,
+      "film": "Taxi"
+      
+    }
